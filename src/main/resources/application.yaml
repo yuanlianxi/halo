@@ -6,7 +6,8 @@ server:
 spring:
   devtools:
     restart:
-      eanbled: false
+      eanbled: false关联云上资源
+
   mvc:
     pathmatch:
       use-suffix-pattern: true
